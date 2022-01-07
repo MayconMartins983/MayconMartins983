@@ -38,11 +38,7 @@
   <a href="mailto:maycon.rocha2100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/MayconMartins983)
-  
-</div>
+
 
 <div align="center">
  
