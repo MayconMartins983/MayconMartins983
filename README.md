@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Olá Tudo bem? Me chamo <a href="https://www.linkedin.com/in/maycon-da-rocha-martins-b80743216"><i>Maycon Martins</i></a> 🤖</h1>
+  <h1 align="center">Olá Tudo bem? Me chamo <a href="https://www.linkedin.com/in/maycon-da-rocha-martins-b80743216"><i>Maycon Martins</i></a> </h1>
   <p align="center"> Sou estudante de desenvolvimento Web e fascinado por programação e tecnologias, onde estou buscando frequentemnete me desenvolver e aprender coisas novas. Procuro fazer projetos e sempre subi-los aqui para mostrar minha trajetória e aprendizados constantes!!! 📚🖖
   
   </a><br>
