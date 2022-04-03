@@ -1,9 +1,9 @@
 <div>
-  <h1 align="center">Olá Tudo bem? Me chamo <a href="https://www.linkedin.com/in/maycon-da-rocha-martins-b80743216"><i>Maycon Martins</i></a> </h1>
-  <p align="center"> Sou estudante de desenvolvimento Web e fascinado por programação e tecnologias, onde estou buscando frequentemnete me desenvolver e aprender coisas novas. Procuro fazer projetos e sempre subi-los aqui para mostrar minha trajetória e aprendizados constantes!!! 📚🖖
+  <h1 align="center">Olá, Me chamo <a href="https://www.linkedin.com/in/maycon-da-rocha-martins-b80743216"><i>Maycon Martins!!!</i></a> </h1>
+  <p align="center"> Sou estudante de desenvolvimento de sistemas. Estou procurando fazer projetos e sempre subi-los aqui para mostrar minha trajetória e aprendizados para conseguir uma oportunidade na área!!! 
   
   </a><br>
-  <p align="center">Qualquer dúvida ou caso queira entrar em contato comigo é só clicar nos meus contatos, como Email ou Linkedin abaixo 👇😉️</h2>
+  <p align="center">Qualquer dúvida ou caso queira entrar em contato comigo é só clicar nos meus contatos, como Email ou Linkedin abaixo.</h2>
 </div>
 
 
