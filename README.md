@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá, Me chamo <a href="https://www.linkedin.com/in/maycon-da-rocha-martins-b80743216"><i>Maycon Martins!!!</i></a> </h1>
-  <p align="center"> Sou estudante de desenvolvimento de sistemas. Estou procurando fazer projetos e sempre subi-los aqui para mostrar minha trajetória e aprendizados para conseguir uma oportunidade na área!!! 
+  <p align="center"> Desenvolvo aplicações em React JS e Java com as ferramentas do ecossistrma Spring (Boot, Data, Security e MVC), busco postar sempre meus projetos aqui, para mostrar minha experiência e desenvolvimento!!! 
   
   </a><br>
   <p align="center">Qualquer dúvida ou caso queira entrar em contato comigo é só clicar nos meus contatos, como Email ou Linkedin abaixo.</h2>
