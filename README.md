@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá, Me chamo <a href="https://www.linkedin.com/in/maycon-da-rocha-martins-b80743216"><i>Maycon Martins!!!</i></a> </h1>
-  <p align="center"> Desenvolvo aplicações em React JS e Java com as ferramentas do ecossistema Spring (Boot, Data, Security e MVC), busco postar sempre meus projetos aqui, para mostrar minha experiência e desenvolvimento!!! 
+  <p align="center"> Tenho experiência em desenvolvimento de sistemas em React JS e na linguagem Java com as ferramentas do ecossistema Spring (Boot, Data, Security e MVC), atualmente trabalho com desenvolvimento de sistemas Rest e micro-serviços com RabbitMQ e Docker. Busco postar sempre meus projetos aqui, para mostrar minha experiência e desenvolvimento!!! 
   
   </a><br>
   <p align="center">Qualquer dúvida ou caso queira entrar em contato comigo é só clicar nos meus contatos, como Email ou Linkedin abaixo.</h2>
